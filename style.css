@@ -1,0 +1,14 @@
+html, body{
+    margin:0;
+  }
+  h1{
+    background:#eaeaea;
+    text-align:center;
+    font-size:22px;
+    color:#000000;
+    padding:10px 0;
+    margin:0;
+  }
+  #canvas{
+    border:1px solid #eaeaea;
+  }
